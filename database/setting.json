@@ -1,0 +1,20 @@
+{
+    "source": {
+        "source_set": "true"
+    },
+    "set_web": {
+        "set_web_browser": "true"
+    },
+    "listen": {
+        "port": "127.0.0.1:8188"
+    },
+    "python": {
+        "boolean": "false"
+    },
+    "git": {
+        "boolean": "false"
+    },
+    "start": {
+        "method": "GPU"
+    }
+}

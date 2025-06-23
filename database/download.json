@@ -1,0 +1,55 @@
+{
+    "checkpoints": {
+        "majicMIX realistic 麦橘写实     基础算法 1.5 采样方法:Euler a，DPM++ 2M Karras，Restart 高清放大: 8x-NMKD-Superscale，4x-UltraSharp": "https://www.liblib.art/modelinfo/bced6d7ec1460ac7b923fc5bc95c4540?from=feed&versionUuid=d303ad58c0fc4c989b60351d5eac68e6",
+        "AWPainting    基础算法 1.5 采样方法:DPM++ 2M Karras 高清放大: 4x-UltraSharp": "https://www.liblib.art/modelinfo/1fd281cf6bcf01b95033c03b471d8fd8?from=feed&versionUuid=3f876aec3420426099ed32c4937185e8",
+        "F.1基础算法模型     基础算法 基础模型 F.1 采样方法:Euler": "https://www.liblib.art/modelinfo/488cd9d58cd4421b9e8000373d7da123?from=feed&versionUuid=412b427ddb674b4dbab9e5abd5ae6057",
+        "AWPortrait       基础算法 1.5 采样方法:DPM++ 2M Karras 高清放大: Lanczos": "https://www.liblib.art/modelinfo/721fa2d298b262d7c08f0337ebfe58f8?from=feed&versionUuid=e55f80a0e852417eb847f2e00d40e09b",
+        "LEOSAM HelloWorld 新世界 | SDXL大模型   基础算法 基础算法 XL 采样方法:Restart": "https://www.liblib.art/modelinfo/506c46c91b294710940bd4b183f3ecd7?from=feed&versionUuid=aeed3bb1cdcb40c098e6f5011aa6d5cb",
+        "GhostMix鬼混     基础算法 1.5 采样方法:DPM++ 2M Karras 高清放大: R-ESRGAN_4x+ Anime6B，4x-UltraSharp": "https://www.liblib.art/modelinfo/cb8d7083b853b2361c243fdb03778b17?from=feed&versionUuid=3bd89c3f00e3a4630fc747198fab6cef",
+        "ReVAnimated_v122     基础算法 1.5 采样方法:DPM++ 2M，DPM++ 2M Karras，Euler a 高清放大:4x_foolhardy_Remacri": "https://www.liblib.art/modelinfo/1004b01e19714137a593e30007f3c737?from=feed&versionUuid=5c60ea3485364ef596e73f7969a745c8",
+        "IP DESIGN | 3D可爱化模型     基础算法 1.5 采样方法:DDIM，Euler a 高清放大: 4x-UltraSharp": "https://www.liblib.art/modelinfo/2beae39bf23edd20675436f88cbf0942?from=feed&versionUuid=1171831259204d30bd32306c019a6cff",
+        "国风3 GuoFeng3     基础算法 1.5 采样方法:Euler a 高清放大: 4x-UltraSharp": "https://www.liblib.art/modelinfo/d920d0d81d388f3feff3933e588cc0d3?from=feed&versionUuid=c79fe58acfb84b088e8e999041a2903e",
+        "kimchiMix     基础算法 1.5 采样方法:Euler 高清放大: 4x-UltraSharp": "https://www.liblib.art/modelinfo/d7b9bbf78364498cbf85f4526c6411c4?from=feed&versionUuid=9952c19ea5ef4f86a21702d6e87719bb",
+        "LEOSAM's MoonFilm | 胶片风真实感大模型     基础算法 1.5 采样方法:DPM++ 2M Karras 高清放大: 4x-UltraSharp": "https://www.liblib.art/modelinfo/1d38049dd8946fcf72ea5f27cadddbfb?from=feed&versionUuid=91ddf23ffa704275a0bf1c0384908401",
+        "XXMix_9realisticSDXL     基础算法 基础算法 XL 采样方法:Restart": "https://www.liblib.art/modelinfo/69c41904b2fc4ed896866b1f4dd2b240?from=feed&versionUuid=f6dcf41cc7674be3b507a422c722757f",
+        "首发推荐｜SHMILY梦幻水彩     基础算法 1.5 采样方法:DPM++ 2M Karras 高清放大: 4x-UltraSharp": "https://www.liblib.art/modelinfo/f1f4d04417044118a53c777ec00d1c98?from=feed&versionUuid=8bb972f713e64dcfae360d1a65888b1a",
+        "全网首发｜SHMILY古典炫彩     基础算法 1.5 采样方法:DPM++ 2M Karras 高清放大: 4x-UltraSharp": "https://www.liblib.art/modelinfo/008051623f21432ca5a312dfd291e0b3?from=feed&versionUuid=7442e661de0e436f8608640f9c5322bb",
+        "首发 | Outline Color勾线彩画凤     基础算法 1.5 采样方法:DPM++ 2M Karras 高清放大: 4x-UltraSharp": "https://www.liblib.art/modelinfo/33857095e4b34627a7ab01f68908e6bd?from=feed&versionUuid=2bf8afbedc1243598711b899b914e287",
+        "majicMIX alpha 麦橘男团      基础算法 1.5 采样方法:Euler a，DPM++ 2M Karras，Restart 高清放大: 4x-UltraSharp": "https://www.liblib.art/modelinfo/384347345ca740508890760f7ddb8b70?from=feed&versionUuid=61c4635a54674c8db232b5a7f2c8031b"
+    },
+    "loras": {
+        "Xian-T手部修复lora（不用controlnet也不坏手了）    基础算法 基础算法 F.1": "https://www.liblib.art/modelinfo/855ea21b14ad4c04810eade3f05b0fdd?from=feed&versionUuid=9de631fd064e4343adad4e96bb43313a",
+        "blindbox/大概是盲盒    基础算法 1.5  触发词 fullbody chibi": "https://www.liblib.art/modelinfo/4c5eb179d4705198d866e22ca0833ef3?from=feed&versionUuid=bcc2645ec085bbecfe4060a63885fc00",
+        "【麻瓜lora】身材调节器S-shape body(1.5-2.5)    基础算法 1.5": "https://www.liblib.art/modelinfo/3ce9797ff0c24af984c5872b5f09a1fe?from=feed&versionUuid=046a6f7121a3480198bb7da96a3643d5",
+        "娜乌斯嘉nwsj_majic_realistic     基础算法 1.5 触发词 nwsj": "https://www.liblib.art/modelinfo/c935e71ea0867c02c8b341768714188e?from=feed&versionUuid=4be18cd8ee6f4a8eabab353c13afb30e",
+        "汉服唐风     基础算法 1.5": "https://www.liblib.art/modelinfo/0dbddbc897886e0710e9ef2cb04eb7d9?from=feed&versionUuid=1c949ecc3d0b4035aff7c6d3848ddc64",
+        "幻想古典主义中式飞天神女国潮插画     基础算法 1.5 触发词 gufeng jtsn-hd": "https://www.liblib.art/modelinfo/5de75754ce43421f92441f1e70797d1a?from=feed&versionUuid=d92f7143b80e438085dbeaeaea52b2d3",
+        "LEOSAM's FilmGirl 胶片风 LoRA--全新VELVIA版本     基础算法 1.5": "https://www.liblib.art/modelinfo/e44b67fbe1d5c73f7aa22a91adfde9b8?from=feed&versionUuid=df885b1f67a2445586c1135f95c4fba5",
+        "3D电商模型     基础算法 1.5  触发词 3ddianshang": "https://www.liblib.art/modelinfo/dba95d73ac5d4189bf1f12f2394fc727?from=feed&versionUuid=39aa3dae737445269b40ee1047e4db52",
+        "自然美妆场景     基础算法 F.1 触发词 cosmetics Bottle Skincare product": "https://www.liblib.art/modelinfo/8a024f86a94443ab9439f101f1b4534b?from=feed&versionUuid=373ca167b59c4170ae2caa65ce57d4a9",
+        "LEOSAM's Instant photo 拍立得/Polaroid LoRA    基础算法 1.5": "https://www.liblib.art/modelinfo/520be48de8504e92880a0018b7fee57e?from=feed&versionUuid=67fbe5f0348146c0a4b73d5c7ca017e4",
+        "小人书·连环画 xiaorenshu    基础算法 1.5": "https://www.liblib.art/modelinfo/7755bdd92e3baeb7bd8ac79a455070ad?from=feed&versionUuid=c704406a4483eb2aa510d9dda1753e6b"
+    },
+    "controlnet": {
+        "Flux.1-dev_Surface-Normals 基础算法 F.1": "https://www.liblib.art/modelinfo/453b3bda67f24c0ebcdc0cd6fe2f0064?from=feed&versionUuid=a696b5bdadc740119fd76505b33d6898",
+        "Flux.1-dev_Controlnet-Depth 基础算法 F.1": "https://www.liblib.art/modelinfo/5514e570f0044a97b04728ea4f2ec4f7?from=feed&versionUuid=64dd7a6c714f4512a4500f6a01b016b7",
+        "通用型ControlNet Union SDXL 1.0 基础算法 SDXL": "https://www.liblib.art/modelinfo/466a7ce9ed6c4d9d80316223a15be260?from=feed&versionUuid=b1a93b7ae1564a80aaa088593828d030",
+        "NoobAI_Controlnet_Openpose 基础算法 NoobAI": "https://www.liblib.art/modelinfo/46c85c7495764d64a85ed699d5b30228?from=feed&versionUuid=5878727a786c4d69afa0baee6cfc214b",
+        "InstantX--V3-Controlnet-Canny 基础算法 v3": "https://www.liblib.art/modelinfo/a873944dab9c46229fa3beb13cdcef7f?from=feed&versionUuid=6389137fcd634ef59d53adf071146ed3",
+        "Lighting based picture control controlnet 基础算法 1.5": "https://www.liblib.art/modelinfo/7e49f6e51b0d473c809ed6aed1771b9d?from=feed&versionUuid=3109072a5cf6403faba6162003b8f483",
+        "F.1-dev-Controlnet-Inpaint     基础算法 F.1": "https://www.liblib.art/modelinfo/2cf38f2780cc4a2797e9b2c80c13c5d9?from=feed&versionUuid=012d2f780c0b44dba829bb223207e608",
+        "ControlNet预处理及模型全 || SD1.5   基础算法 1.5": "https://www.liblib.art/modelinfo/9dfd87b5f79d4196a073782ab1171ee9?from=feed&versionUuid=4d5b2c3e164947199aa1f737fb1cd279",
+        "ControlNet预处理及模型全 || SDXL    基础算法 1.5": "https://www.liblib.art/modelinfo/f87f18fd600148e0b8de9ed07ceb901b?from=feed&versionUuid=3f0539a763164b60879d63dd4b8fe606",
+        "最全 Flux ControlNet 控制模型下载     基础算法 F.1 ": "https://www.liblib.art/modelinfo/bf553da121104d35bc37b792f67569ca?from=feed&versionUuid=7061f7a43a7546f29ffcf05b5b8ea626",
+        "instantid    基础算法 SDXL": "https://www.liblib.art/modelinfo/2d9861ba37dd413dabd09b64c5147d38?from=feed&versionUuid=e08042ed45084a328e82bd1587b8371c",
+        "ipadapter模型    基础算法 1.5": "https://www.liblib.art/modelinfo/6260dc5d936d43129218e9fef77c9933?from=feed&versionUuid=20de905cc80f44639a9eac6533bc6980",
+        "InstantX--V3-Controlnet-Pose    基础算法 V3": "https://www.liblib.art/modelinfo/a16609fc389c42a0a563eec77b34cfcc?from=feed&versionUuid=3a5c179bb2344b818879654a89742664"
+    },
+    "vae": {
+        "vae-84m-pruned   基础算法 1.5": "https://www.liblib.art/modelinfo/de76e133a081b82a931f055084fd8583?from=search&versionUuid=0fd28550e2c6b540f05eaddb511caf3d",
+        "Flux.1-dev-fp8 整合模型（unet+vae+双clip组合    基础算法 F.1": "https://www.liblib.art/modelinfo/c6f52fa0a5e5410fb735c0110304b438?from=search&versionUuid=8811ee2316244197bdc059f3699b6197",
+        "F.1 Compact | CLIP and VAE included    基础算法 F.1": "https://www.liblib.art/modelinfo/b1a5d220fb274fdabc1968884eebfd70?from=search&versionUuid=fb7b744c426f44c2917c00658da92d47",
+        "可图kolors-base-1.0-vae-fp16    基础算法 Kolors": "https://www.liblib.art/modelinfo/86dff3d48c5940e0891e6682f8165fc8?from=search&versionUuid=4d106cbc2faf4e2dbb65e0f4d53a0bb2",
+        "动漫vaeExtremeColors    基础算法 1.5": "https://www.liblib.art/modelinfo/4d1d56efe4309f9b15dd719a5cfea1bc?from=search&versionUuid=832b551e15165c736d3ff76690185840"
+    }
+}
