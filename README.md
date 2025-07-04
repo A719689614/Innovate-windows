@@ -3,6 +3,7 @@
 通过网盘分享的文件：AC_FUNCTION
 链接: https://pan.baidu.com/s/1XnHPyjy8sanZHGbgoURueA 提取码: ACAC
 # 2025-07-04更新特性
+说明:小程序请求仓库暂未上线,我将在两周以内更新上线,后面大家可以从仓库拉取更新即可!
 1.主页小程序功能
 ![image](https://github.com/user-attachments/assets/e8857429-03fd-479e-a1d4-2f4a00b98f5a)
 # 2025-07-04更新特性
