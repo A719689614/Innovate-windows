@@ -2,7 +2,7 @@
 # 网盘下载地址
 通过网盘分享的文件：AC_FUNCTION
 链接: https://pan.baidu.com/s/1XnHPyjy8sanZHGbgoURueA 提取码: ACAC
-# 2025-07-04更新特新
+# 2025-07-04更新特性
 1.主页小程序功能
 ![image](https://github.com/user-attachments/assets/e8857429-03fd-479e-a1d4-2f4a00b98f5a)
 # 2025-07-04更新特性
