@@ -1,36 +1,23 @@
-# Innovate启动器界面预览
+# INNOVATE启动器界面预览
 # 网盘下载地址
 通过网盘分享的文件：AC_FUNCTION
 链接: https://pan.baidu.com/s/1XnHPyjy8sanZHGbgoURueA 提取码: ACAC
-# 2025-07-04更新特性
-说明:小程序请求仓库暂未上线,我将在两周以内更新上线,后面大家可以从仓库拉取更新即可!
-
-1.主页小程序功能
-![image](https://github.com/user-attachments/assets/e8857429-03fd-479e-a1d4-2f4a00b98f5a)
-# 2025-07-04更新特性
-应用市场的功能
-![image](https://github.com/user-attachments/assets/7ab571b8-3114-40bf-b504-8700ecdbda82)
-![image](https://github.com/user-attachments/assets/82d6a413-1b4b-45ac-9731-c3307367e677)
-![image](https://github.com/user-attachments/assets/4656635c-3939-4fb9-87ad-c13f64d45e2c)
-![image](https://github.com/user-attachments/assets/81ceb0dd-96d8-42d3-96fe-6b458e0f2dd4)
-# 主页
-![image](https://github.com/user-attachments/assets/9b208b6f-4223-453a-a015-28314d56b148)
-# 绘图
-![image](https://github.com/user-attachments/assets/a78d42f6-2f1b-4f40-9342-de19c934af08)
-![image](https://github.com/user-attachments/assets/ab450624-da90-48b0-bbd7-f832da3a1abc)
-![image](https://github.com/user-attachments/assets/50218d0c-0fc2-41f5-87b9-faf4d501a627)
-![image](https://github.com/user-attachments/assets/c6d69620-a3b3-41d5-acfb-9bdcf98562a4)
-# 应用
-![image](https://github.com/user-attachments/assets/733a7a85-c261-4d50-bd26-d5831892906f)
-# 版本
-![image](https://github.com/user-attachments/assets/da5568c2-c5a9-48a6-b9b9-7e9b6422273e)
-# 智能
-![image](https://github.com/user-attachments/assets/bc355fe5-4795-4837-bf90-3f932d48616e)
-# 信息
-![image](https://github.com/user-attachments/assets/a2fcaf2c-0a86-4bf1-b537-6655f58c44ec)
-# 工具
-![image](https://github.com/user-attachments/assets/87d78741-bba1-4572-afd0-6d9577b1058d)
-# 终端
-![image](https://github.com/user-attachments/assets/03228223-0d71-4704-8b4a-d12fbe8253f4)
-# 设置
-![image](https://github.com/user-attachments/assets/8d3424c0-1dc9-4cfe-8ba6-e248c88a87e3)
+# 2025-08-16更新特性
+1. 主界面启动器更新Comfyui&StableDiffusion支持
+2. 优化小程序下载和更新功能
+3. 修复已知BUG和内存占用优化
+4. 优化大模型语言聊天卡死BUG
+5. 自定义设置窗口大小
+# 一、主界面样式
+. 说明：从主界面可以直接选择启动模式！支持迷你终端直接启动ComfyUI和INNOVATED小程序
+. 支持45个小程序和系统默认程序扩展，AI应用在线更新！
+<img width="1920" height="1040" alt="QQ截图20250816093803" src="https://github.com/user-attachments/assets/c83552a5-70c0-4eee-9a7c-74257f10ab05" />
+<img width="1920" height="1040" alt="QQ截图20250816093830" src="https://github.com/user-attachments/assets/8d081de1-c8d2-4e98-acb2-014d08b9717d" />
+<img width="1920" height="1040" alt="QQ截图20250816093836" src="https://github.com/user-attachments/assets/9cc16281-eca5-4e01-9e53-f36166136edd" />
+<img width="1920" height="1040" alt="QQ截图20250816093845" src="https://github.com/user-attachments/assets/367e3401-34c0-4b06-9696-e5ec1b859e2e" />
+# 二、ComfyUI桌面终端[主页]
+. 说明：主页支持各种资源管理：根目录文件、数据管理、大模型管理、lora管理、controlnet管理、vae模型管理、工作流管理、输出图片查看&一键启动按钮
+<img width="1920" height="1040" alt="QQ截图20250816093856" src="https://github.com/user-attachments/assets/6abdd6c4-bdde-4f09-8e24-0aa5991c43b8" />
+# 三、ComfyUI桌面终端[绘图]
+. 说明：可视化AI作图界面，类似webui的程序操作界面更容易上手，底层api调用的还是comfyui的api接口。支持大模型选择|Lora模型|Controlnet等
+<img width="1920" height="1040" alt="QQ截图20250816093902" src="https://github.com/user-attachments/assets/51d5b443-0c53-40cc-b57c-0aedec67a238" />
