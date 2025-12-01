@@ -2,6 +2,9 @@
 # 网盘下载地址
 通过网盘分享的文件：AC_FUNCTION
 链接: https://pan.baidu.com/s/1XnHPyjy8sanZHGbgoURueA 提取码: ACAC
+# 2025-12-01更新特性
+1. 优化内存使用debug
+2. 增加ckpt、lora、vae、ctrolnet、unet模型阔展地址
 # 2025-08-16更新特性
 1. 主界面启动器更新Comfyui&StableDiffusion支持
 2. 优化小程序下载和更新功能
