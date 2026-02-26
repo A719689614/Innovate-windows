@@ -2,22 +2,22 @@
 # 2026-03-05-预计更新预览
 # 一、新的功能界面特性
 特性说明:
-  1.增加顶部状态栏功能按钮
-  2.支持嵌入式web ComfyUI
+  1. 增加顶部状态栏功能按钮
+  2. 支持嵌入式web ComfyUI
 <img width="2355" height="1344" alt="QQ截图20260226144418" src="https://github.com/user-attachments/assets/d23494f9-4fc7-4be8-9e81-91a85d3c1539" />
 <img width="2355" height="1344" alt="QQ截图20260226145020" src="https://github.com/user-attachments/assets/7ecd048c-f6af-4db2-9e0a-71335fa98db9" />
 
 # 二、笔记功能区域
 特性说明:
-  1.支持MD原生笔记预览|读取|改写
-  2.支持同步git仓库，远程同步笔记内容
+  1. 支持MD原生笔记预览|读取|改写
+  2. 支持同步git仓库，远程同步笔记内容
 <img width="2355" height="1344" alt="QQ截图20260226144438" src="https://github.com/user-attachments/assets/73e9e450-90d9-4db6-b556-a8d2b299c952" />
 
 # 三、创意绘图
 特性说明:
-  1.支持本地算力绘图
-  2.支持云端算力绘图
-  3.需要登录内测账户[免费申请]
+  1. 支持本地算力绘图
+  2. 支持云端算力绘图
+  3. 需要登录内测账户[免费申请]
 <img width="2355" height="1344" alt="QQ截图20260226144452" src="https://github.com/user-attachments/assets/fc4b8715-6751-4012-9fef-33514187334a" />
 <img width="2355" height="1344" alt="QQ截图20260226144507" src="https://github.com/user-attachments/assets/b0e17123-c795-461f-b1c1-5b7afe9aede4" />
 
