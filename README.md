@@ -23,32 +23,32 @@
 
 # 四、图像工场
 特性说明:
-  1.支持批量转换分辨率
-  2.支持批量转换图像格式
+  1. 支持批量转换分辨率
+  2. 支持批量转换图像格式
 <img width="2355" height="1344" alt="QQ截图20260226144512" src="https://github.com/user-attachments/assets/eca043b3-a45d-4054-822f-38a194cf123c" />
 
 # 五、图库中心
 特性说明:
-  1.支持图像对比
-  2.支持图像一键添加到创意绘图进行修改或图生图
-  3.支持一键复制到剪切板进行微信或其他终端发送
+  1. 支持图像对比
+  2. 支持图像一键添加到创意绘图进行修改或图生图
+  3. 支持一键复制到剪切板进行微信或其他终端发送
 <img width="2355" height="1344" alt="QQ截图20260226144539" src="https://github.com/user-attachments/assets/13f8b3a1-8b36-4dda-916c-eb5da8f0c235" />
 <img width="2355" height="1344" alt="QQ截图20260226144600" src="https://github.com/user-attachments/assets/5d3a61e5-6d49-42fd-b7f6-2d5cb4b24c1a" />
 
 # 六、内核功能
 特性说明:
-  1.支持依赖下载
-  2.支持自定义组件更新和管理
+  1. 支持依赖下载
+  2. 支持自定义组件更新和管理
 <img width="2355" height="1344" alt="QQ截图20260226144611" src="https://github.com/user-attachments/assets/d4176e36-c189-49aa-8a9b-ed4bf329cdf0" />
 <img width="2355" height="1344" alt="QQ截图20260226144617" src="https://github.com/user-attachments/assets/05a7c535-951e-4a57-904d-e74fe52e3076" />
 <img width="2355" height="1344" alt="QQ截图20260226144643" src="https://github.com/user-attachments/assets/78f5fc29-86e2-4164-bc5f-b1c8f8c2de1b" />
 
 # 七、AI智能助手
 特性说明:
-  1.增加默认的Deepseek机器人[云端服务][免费]
-  2.增加翻译机器人
-  3.增加扩写机器人
-  4.增加内容分析机器人
+  1. 增加默认的Deepseek机器人[云端服务][免费]
+  2. 增加翻译机器人
+  3. 增加扩写机器人
+  4. 增加内容分析机器人
 <img width="2355" height="1344" alt="QQ截图20260226144904" src="https://github.com/user-attachments/assets/e9fb489d-db7a-46fb-a5b0-d7f4cba7e596" />
 
 # 网盘下载地址
