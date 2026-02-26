@@ -1,4 +1,9 @@
 # INNOVATE启动器界面预览
+# 2026-03-05-预计更新预览
+# 一、新的功能界面特性
+
+<img width="2355" height="1344" alt="QQ截图20260226144418" src="https://github.com/user-attachments/assets/d23494f9-4fc7-4be8-9e81-91a85d3c1539" />
+
 # 网盘下载地址
 通过网盘分享的文件：AC_FUNCTION
 链接: https://pan.baidu.com/s/1XnHPyjy8sanZHGbgoURueA 提取码: ACAC
