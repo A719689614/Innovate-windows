@@ -1,8 +1,55 @@
 # INNOVATE启动器界面预览
 # 2026-03-05-预计更新预览
 # 一、新的功能界面特性
-
+特性说明:
+  1.增加顶部状态栏功能按钮
+  2.支持嵌入式web ComfyUI
 <img width="2355" height="1344" alt="QQ截图20260226144418" src="https://github.com/user-attachments/assets/d23494f9-4fc7-4be8-9e81-91a85d3c1539" />
+<img width="2355" height="1344" alt="QQ截图20260226145020" src="https://github.com/user-attachments/assets/7ecd048c-f6af-4db2-9e0a-71335fa98db9" />
+
+# 二、笔记功能区域
+特性说明:
+  1.支持MD原生笔记预览|读取|改写
+  2.支持同步git仓库，远程同步笔记内容
+<img width="2355" height="1344" alt="QQ截图20260226144438" src="https://github.com/user-attachments/assets/73e9e450-90d9-4db6-b556-a8d2b299c952" />
+
+# 三、创意绘图
+特性说明:
+  1.支持本地算力绘图
+  2.支持云端算力绘图
+  3.需要登录内测账户[免费申请]
+<img width="2355" height="1344" alt="QQ截图20260226144452" src="https://github.com/user-attachments/assets/fc4b8715-6751-4012-9fef-33514187334a" />
+<img width="2355" height="1344" alt="QQ截图20260226144507" src="https://github.com/user-attachments/assets/b0e17123-c795-461f-b1c1-5b7afe9aede4" />
+
+# 四、图像工场
+特性说明:
+  1.支持批量转换分辨率
+  2.支持批量转换图像格式
+<img width="2355" height="1344" alt="QQ截图20260226144512" src="https://github.com/user-attachments/assets/eca043b3-a45d-4054-822f-38a194cf123c" />
+
+# 五、图库中心
+特性说明:
+  1.支持图像对比
+  2.支持图像一键添加到创意绘图进行修改或图生图
+  3.支持一键复制到剪切板进行微信或其他终端发送
+<img width="2355" height="1344" alt="QQ截图20260226144539" src="https://github.com/user-attachments/assets/13f8b3a1-8b36-4dda-916c-eb5da8f0c235" />
+<img width="2355" height="1344" alt="QQ截图20260226144600" src="https://github.com/user-attachments/assets/5d3a61e5-6d49-42fd-b7f6-2d5cb4b24c1a" />
+
+# 六、内核功能
+特性说明:
+  1.支持依赖下载
+  2.支持自定义组件更新和管理
+<img width="2355" height="1344" alt="QQ截图20260226144611" src="https://github.com/user-attachments/assets/d4176e36-c189-49aa-8a9b-ed4bf329cdf0" />
+<img width="2355" height="1344" alt="QQ截图20260226144617" src="https://github.com/user-attachments/assets/05a7c535-951e-4a57-904d-e74fe52e3076" />
+<img width="2355" height="1344" alt="QQ截图20260226144643" src="https://github.com/user-attachments/assets/78f5fc29-86e2-4164-bc5f-b1c8f8c2de1b" />
+
+# 七、AI智能助手
+特性说明:
+  1.增加默认的Deepseek机器人[云端服务][免费]
+  2.增加翻译机器人
+  3.增加扩写机器人
+  4.增加内容分析机器人
+<img width="2355" height="1344" alt="QQ截图20260226144904" src="https://github.com/user-attachments/assets/e9fb489d-db7a-46fb-a5b0-d7f4cba7e596" />
 
 # 网盘下载地址
 通过网盘分享的文件：AC_FUNCTION
