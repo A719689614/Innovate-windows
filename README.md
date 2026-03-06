@@ -1,4 +1,10 @@
 # INNOVATE启动器界面预览
+# 2026-03-06-更新补丁
+特性说明:
+  1. 增加主仓库管理和分支管理
+  2. 修复已知BUG
+<img width="2355" height="1344" alt="image" src="https://github.com/user-attachments/assets/d9b2d700-403e-49ed-93b5-8acb0c64a914" />
+
 # 2026-03-05-预计更新预览
 # 一、新的功能界面特性
 特性说明:
