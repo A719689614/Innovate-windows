@@ -2,8 +2,9 @@
 # 2026-03-13-更新
 特性说明:
   1. 修复内核拉取BUG
-  2. 增加Dify入口功能
-  3. 增加Dify应用，从应用程序更新
+  2. 修复退出程序系统托盘残留BUG
+  3. 增加Dify入口功能
+  4. 增加Dify应用，从应用程序更新
 <img width="2560" height="1390" alt="QQ截图20260313104154" src="https://github.com/user-attachments/assets/a6e27459-4894-42e0-a214-5582e726ea72" />
 <img width="2355" height="1344" alt="QQ截图20260313104251" src="https://github.com/user-attachments/assets/657a49e5-b269-4eb9-9ce9-47541488afd2" />
 
