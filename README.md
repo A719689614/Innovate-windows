@@ -1,4 +1,13 @@
 # INNOVATE启动器界面预览
+# 2026-03-18-更新
+特性说明:
+ 1. 开放多个智能助手
+ 2. 增加ComfyUI的环境管理，兼容官方的便携包，不支持其他第三方包
+ 3. 修复其他已知BUG
+<img width="2355" height="1344" alt="QQ截图20260318172439" src="https://github.com/user-attachments/assets/bfddb361-1ad7-4f42-a95b-e4afc33a8586" />
+<img width="2355" height="1344" alt="QQ截图20260318172450" src="https://github.com/user-attachments/assets/85c4e92b-3584-47a6-b64b-d944bc419f6c" />
+<img width="2355" height="1344" alt="QQ截图20260318172458" src="https://github.com/user-attachments/assets/769b4da3-4739-48f9-a7eb-6f6a1615af61" />
+
 # 2026-03-13-更新
 特性说明:
   1. 修复内核拉取BUG
