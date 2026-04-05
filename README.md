@@ -2,6 +2,8 @@
 # 2026-04-05-更新
 特性说明:
  1. 增加Dify、ComfyUI等模式全屏功能
+<img width="1619" height="924" alt="QQ截图20260405234236" src="https://github.com/user-attachments/assets/3da637af-f928-4afb-9166-041031e14935" />
+
 # 2026-03-28-更新
 特性说明:
  1. 修复笔记Markdown格式BUG
