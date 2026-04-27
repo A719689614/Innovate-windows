@@ -2,6 +2,7 @@
 # 2026-04-27-更新
 特性说明:
  1. 增加图像反推功能
+ 2. 修复聊天助手指针BUG
 <img width="1722" height="983" alt="QQ截图20260427084905" src="https://github.com/user-attachments/assets/961298c6-88ac-4bef-a6a9-5a21c77534fc" />
 
 
