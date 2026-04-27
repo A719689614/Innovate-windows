@@ -1,4 +1,10 @@
 # INNOVATE启动器界面预览
+# 2026-04-27-更新
+特性说明:
+ 1. 增加图像反推功能
+<img width="1722" height="983" alt="QQ截图20260427084905" src="https://github.com/user-attachments/assets/961298c6-88ac-4bef-a6a9-5a21c77534fc" />
+
+
 # 2026-04-23-更新
 特性说明:
  1. 增加stablediffusion全屏模式Embededing
