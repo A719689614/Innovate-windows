@@ -1,4 +1,35 @@
-# INNOVATE启动器界面预览
+# INNOVATE桌面终端
+# 2026-05-16 V2.0.15更新 ========================================================================================================
+特性说明：
+ 1. 全新的终端更新逻辑
+ 2. 支持自定义工作流一键式生图、支持自定义工作流封面
+ 3. 支持远程服务器工作流一键式生成
+ 4. 修复系统已知BUG
+ 5. 修复大模型库加载异步功能
+ 6. 增加AI多功能助手、翻译、图像分析、内容分析
+ 7. 工具栏
+ 8. 系统嵌入式环境管理、环境包管理、安装管理
+
+<img width="1540" height="862" alt="image" src="https://github.com/user-attachments/assets/965457f8-6fea-4730-b1ba-dd109b5b5833" />
+<img width="1472" height="840" alt="image" src="https://github.com/user-attachments/assets/ac279a4a-c7cf-4aac-86f3-3c724a9ec9e6" />
+<img width="1472" height="840" alt="image" src="https://github.com/user-attachments/assets/9513e3a0-7770-4168-8c91-596ac06a7bbb" />
+<img width="1472" height="840" alt="image" src="https://github.com/user-attachments/assets/f26f2ea8-ebad-4906-859a-c43cbe09c265" />
+<img width="1472" height="840" alt="image" src="https://github.com/user-attachments/assets/f4b84a08-01fc-4846-b19e-3e8c74bd802a" />
+<img width="1472" height="840" alt="image" src="https://github.com/user-attachments/assets/6bf2341c-8534-4a44-bf0c-f2c93ea8aa3b" />
+<img width="1472" height="840" alt="image" src="https://github.com/user-attachments/assets/40512e53-7901-418a-8cdc-bd38d63b2b22" />
+<img width="1472" height="840" alt="image" src="https://github.com/user-attachments/assets/ce17fcac-6eca-493b-ab11-0f0357046375" />
+<img width="1472" height="840" alt="image" src="https://github.com/user-attachments/assets/3a6320f8-e48c-401b-a13e-4cea5abc794d" />
+<img width="1472" height="840" alt="image" src="https://github.com/user-attachments/assets/02a52d4d-ec94-4f3f-9a2a-a03a0ca9d354" />
+<img width="1472" height="840" alt="image" src="https://github.com/user-attachments/assets/7db752c5-bbf1-4678-8441-e5bb699bab38" />
+<img width="1472" height="840" alt="image" src="https://github.com/user-attachments/assets/3b0f5120-52a1-4a39-8253-bb69f38c47ef" />
+<img width="1472" height="840" alt="image" src="https://github.com/user-attachments/assets/4bfbbf30-13d6-42b8-95f3-6589b7cff02a" />
+<img width="1472" height="840" alt="image" src="https://github.com/user-attachments/assets/fe439af5-b1b1-4d42-8c50-4aef0cdf2276" />
+<img width="1472" height="840" alt="image" src="https://github.com/user-attachments/assets/15dc2137-d4e0-4e07-b840-555c19de832d" />
+<img width="1472" height="840" alt="image" src="https://github.com/user-attachments/assets/bd3f704f-1858-4532-b79f-8948e2bccbe4" />
+<img width="1472" height="840" alt="image" src="https://github.com/user-attachments/assets/b11e395e-cb43-463b-b3af-7000313a58ff" />
+<img width="1472" height="840" alt="image" src="https://github.com/user-attachments/assets/0be3e8e5-645b-4efe-afb8-cd83ae55eac5" />
+
+
 # 2026-04-27-更新
 特性说明:
  1. 增加图像反推功能
