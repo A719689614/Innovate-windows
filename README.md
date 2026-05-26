@@ -1,3 +1,7 @@
+# 2026-05-26 V2.0.15更新 =====
+ 1. 添加画板功能-局部重绘功能
+<img width="1722" height="983" alt="image" src="https://github.com/user-attachments/assets/f2e79016-cd81-4533-9dcb-2f98d56f03b1" />
+
 # 2026-05-24 V2.0.15更新 =====
  1. 修复git信息阻塞BUG
 # INNOVATE桌面终端
