@@ -1,3 +1,12 @@
+# 2026-05-29 V2.0.16更新 =====
+ 1. 添加图库分类管理
+ 2. DS大模型幻觉处理、上下文窗口优化
+ 3. 聊天记录BUG修复
+<img width="1264" height="585" alt="image" src="https://github.com/user-attachments/assets/118410e9-e4bf-464b-b504-6470dc12449d" />
+<img width="1722" height="983" alt="image" src="https://github.com/user-attachments/assets/3a8861e6-039b-4487-9068-807020bd0234" />
+<img width="1722" height="983" alt="image" src="https://github.com/user-attachments/assets/c63a8113-1549-4083-942e-7bb85baefad2" />
+
+
 # 2026-05-26 V2.0.15更新 =====
  1. 添加画板功能-局部重绘功能
 <img width="1722" height="983" alt="image" src="https://github.com/user-attachments/assets/f2e79016-cd81-4533-9dcb-2f98d56f03b1" />
