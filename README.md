@@ -1,3 +1,17 @@
+# 2026-07-05 V2.0.18更新 ========================
+ 1. 开放全部使用权限以及改成本地登录mysql数据库等新功能
+ 2. 插件列表和模型klein9B、seedvr2、nunchaku-kontext-int4版本
+ 3. 修复图库图像上传oss闪退BUG
+ 4. 增加自定义工作流模板指针模式[可显示自定义工作流名称]
+ 5. 其他已知的BUG修复以及本地Ollama开放
+# 新版本预览 ===================================
+<img width="1400" height="784" alt="image" src="https://github.com/user-attachments/assets/a03bc784-ffa7-47a7-8b31-d83b1cc50a60" />
+<img width="1472" height="840" alt="image" src="https://github.com/user-attachments/assets/97187d19-9eef-49f6-b386-0c9815ff6e92" />
+<img width="1472" height="840" alt="image" src="https://github.com/user-attachments/assets/4d1c2cc8-ec29-4204-b913-46d8986247c2" />
+<img width="1472" height="840" alt="image" src="https://github.com/user-attachments/assets/b0979753-79b4-433b-b3c8-670c3c0fdd50" />
+<img width="1472" height="840" alt="image" src="https://github.com/user-attachments/assets/3d851130-5a11-4f70-84d8-bea642debca3" />
+<img width="1472" height="840" alt="image" src="https://github.com/user-attachments/assets/254ffe7f-7234-4263-9468-84f4b02dd03a" />
+
 # 2026-05-29 V2.0.17更新 =====
  1. 优化任务死锁BUG
  2. 图库热更新功能
