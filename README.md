@@ -1,6 +1,8 @@
 # 2026-07-030 V2.0.19更新 ========================
  1. 部分BUG修复
  2. 增加账户密码管理以及该信息隐私隐藏
+<img width="1649" height="941" alt="image" src="https://github.com/user-attachments/assets/2495ce37-aed7-4d0f-91be-0b0b0f02d40f" />
+
 # 2026-07-05 V2.0.18更新 ========================
  1. 开放全部使用权限以及改成本地登录mysql数据库等新功能
  2. 插件列表和模型klein9B、seedvr2、nunchaku-kontext-int4版本
