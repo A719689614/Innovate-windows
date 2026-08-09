@@ -1,4 +1,9 @@
-# 2026-07-030 V2.0.19更新 ========================
+# 2026-08-09 V2.0.20更新 ========================
+ 1. 增加新功能-指定卸载安装包
+<img width="1568" height="878" alt="image" src="https://github.com/user-attachments/assets/0cbef0c4-10e6-4b9f-9187-41704106c582" />
+<img width="1649" height="941" alt="image" src="https://github.com/user-attachments/assets/2e2d24e7-2640-4d8e-8116-6eef050a7760" />
+
+# 2026-07-30 V2.0.19更新 ========================
  1. 部分BUG修复
  2. 增加账户密码管理以及该信息隐私隐藏
 <img width="1649" height="941" alt="image" src="https://github.com/user-attachments/assets/2495ce37-aed7-4d0f-91be-0b0b0f02d40f" />
