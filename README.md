@@ -1,20 +1,20 @@
-# 2026-08-09 V2.0.20更新 ========================
+# 2026-08-09 V2.0.20更新 ======
  1. 增加新功能-指定卸载安装包
 <img width="1568" height="878" alt="image" src="https://github.com/user-attachments/assets/0cbef0c4-10e6-4b9f-9187-41704106c582" />
 <img width="1649" height="941" alt="image" src="https://github.com/user-attachments/assets/2e2d24e7-2640-4d8e-8116-6eef050a7760" />
 
-# 2026-07-30 V2.0.19更新 ========================
+# 2026-07-30 V2.0.19更新 =====
  1. 部分BUG修复
  2. 增加账户密码管理以及该信息隐私隐藏
 <img width="1649" height="941" alt="image" src="https://github.com/user-attachments/assets/2495ce37-aed7-4d0f-91be-0b0b0f02d40f" />
 
-# 2026-07-05 V2.0.18更新 ========================
+# 2026-07-05 V2.0.18更新 =====
  1. 开放全部使用权限以及改成本地登录mysql数据库等新功能
  2. 插件列表和模型klein9B、seedvr2、nunchaku-kontext-int4版本
  3. 修复图库图像上传oss闪退BUG
  4. 增加自定义工作流模板指针模式[可显示自定义工作流名称]
  5. 其他已知的BUG修复以及本地Ollama开放
-# 新版本预览 ===================================
+# 新版本预览 ======
 <img width="1400" height="784" alt="image" src="https://github.com/user-attachments/assets/a03bc784-ffa7-47a7-8b31-d83b1cc50a60" />
 <img width="1472" height="840" alt="image" src="https://github.com/user-attachments/assets/97187d19-9eef-49f6-b386-0c9815ff6e92" />
 <img width="1472" height="840" alt="image" src="https://github.com/user-attachments/assets/4d1c2cc8-ec29-4204-b913-46d8986247c2" />
@@ -43,7 +43,7 @@
 # 2026-05-24 V2.0.15更新 =====
  1. 修复git信息阻塞BUG
 # INNOVATE桌面终端
-# 2026-05-16 V2.0.15更新 ====================
+# 2026-05-16 V2.0.15更新 =====
 特性说明：
  1. 全新的终端更新逻辑
  2. 支持自定义工作流一键式生图、支持自定义工作流封面
