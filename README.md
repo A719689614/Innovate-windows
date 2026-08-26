@@ -1,3 +1,7 @@
+# 2026-08-27 更新V2.0.21版本 =====
+  1. 增加Pip查询功能
+  2. 增加ComfyUI启动命令配置可防止内存溢出
+  3. 增强https服务配置和http服务配置
 # 2026-08-09 V2.0.20更新 ======
  1. 增加新功能-指定卸载安装包
 <img width="1568" height="878" alt="image" src="https://github.com/user-attachments/assets/0cbef0c4-10e6-4b9f-9187-41704106c582" />
