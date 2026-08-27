@@ -1,3 +1,18 @@
+#  2026-08-27 更新v2.1.22版本 =====
+  1. 增加Pip查询功能
+  2. 增加ComfyUI启动命令配置可防止内存溢出
+  3. 增强https服务配置和http服务配置
+  4. 全部服务修改成本地服务和云端服务共享
+  5. 取消部分基于Dify服务的功能
+  6. 新增工作手册
+  7. 取消M有SQL服务
+  8. 修订软件许可协议为MIT
+
+<img width="1582" height="886" alt="image" src="https://github.com/user-attachments/assets/2f343516-c563-4bd9-a685-8e22354ecafa" />
+<img width="1663" height="949" alt="image" src="https://github.com/user-attachments/assets/88a3cf2f-e466-48e6-8d08-e3363c39d205" />
+<img width="1663" height="949" alt="image" src="https://github.com/user-attachments/assets/f3e5431c-af1f-48b9-978d-398be67005f0" />
+
+OS：新功能写入数据库，安装好进入系统恢复出产设置同步数据库即可！不然会报错！！！
 # 2026-08-27 更新V2.0.21版本 =====
   1. 增加Pip查询功能
   2. 增加ComfyUI启动命令配置可防止内存溢出
