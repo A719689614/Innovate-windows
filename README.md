@@ -5,7 +5,7 @@
   4. 全部服务修改成本地服务和云端服务共享
   5. 取消部分基于Dify服务的功能
   6. 新增工作手册
-  7. 取消M有SQL服务
+  7. 取消MySQL服务
   8. 修订软件许可协议为MIT
 
 <img width="1582" height="886" alt="image" src="https://github.com/user-attachments/assets/2f343516-c563-4bd9-a685-8e22354ecafa" />
