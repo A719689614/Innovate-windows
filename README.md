@@ -1,6 +1,15 @@
 # Innovate_Painter 无限画布内测
 https://github.com/A719689614/Innovate_painter_dev
 
+# 部分系统适配组件下载[请参考工作流缺失决定安装]
+https://github.com/A719689614/ComfyUI_AC_FUN-V1.0
+https://github.com/A719689614/ComfyUI-AC_FUNV2.0
+https://github.com/A719689614/ComfyUI-By-AC_FUNV4.0
+https://github.com/A719689614/ComfyUI-By-AC_FUNV5.0
+https://github.com/A719689614/ComfyUI-By-AC_FUNV6.0
+https://github.com/A719689614/ComfyUI_AC_FUNV8Beta1
+https://github.com/A719689614/ComfyUI-By-AC_FUN_DE
+
 #  2026-08-27 更新v2.1.22版本 =====
   1. 增加Pip查询功能
   2. 增加ComfyUI启动命令配置可防止内存溢出
