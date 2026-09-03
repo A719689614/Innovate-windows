@@ -9,7 +9,11 @@ https://github.com/A719689614/Innovate_painter_dev
   5. https://github.com/A719689614/ComfyUI-By-AC_FUNV6.0
   6. https://github.com/A719689614/ComfyUI_AC_FUNV8Beta1
   7. https://github.com/A719689614/ComfyUI-By-AC_FUN_DE
+#  2026-09-03 更新v2.2.22版本 =====
+  1. 修复本地工作流读取问题[重大代码BUG修复]
+  2. 请弃用v2.1.22版本，代码BUG造成的问题，我深感抱歉！
 
+如有使用问题，可以B站私信我，你提出的问题，我在能力范围内都会去修复代码！！！
 #  2026-08-27 更新v2.1.22版本 =====
   1. 增加Pip查询功能
   2. 增加ComfyUI启动命令配置可防止内存溢出
