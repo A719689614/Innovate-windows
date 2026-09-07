@@ -1,7 +1,7 @@
 # Innovate_Painter 无限画布内测
 https://github.com/A719689614/Innovate_painter_dev
 
-# 部分系统适配组件下载[请参考工作流缺失决定安装]
+## 部分系统适配组件下载[请参考工作流缺失决定安装]
   1. https://github.com/A719689614/ComfyUI_AC_FUN-V1.0
   2. https://github.com/A719689614/ComfyUI-AC_FUNV2.0
   3. https://github.com/A719689614/ComfyUI-By-AC_FUNV4.0
