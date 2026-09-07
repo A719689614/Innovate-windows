@@ -1,4 +1,4 @@
-# Innovate_Painter 无限画布内测
+# Innovate_Painter 无限画布项目地址
 https://github.com/A719689614/Innovate_painter_dev
 
 ## 部分系统适配组件下载[请参考工作流缺失决定安装]
