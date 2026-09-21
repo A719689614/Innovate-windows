@@ -9,6 +9,11 @@ https://github.com/A719689614/Innovate_painter_dev
   5. https://github.com/A719689614/ComfyUI-By-AC_FUNV6.0
   6. https://github.com/A719689614/ComfyUI_AC_FUNV8Beta1
   7. https://github.com/A719689614/ComfyUI-By-AC_FUN_DE
+
+#  2026-09-03 更新v2.2.23版本 =====
+ 1. 修复loop工作流循环线程溢出
+ 2. 增加七牛云存储服务
+
 #  2026-09-03 更新v2.2.22版本 =====
   1. 修复本地工作流读取问题[重大代码BUG修复]
   2. 请弃用v2.1.22版本，代码BUG造成的问题，我深感抱歉！
