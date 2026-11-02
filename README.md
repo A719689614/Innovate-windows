@@ -13,6 +13,9 @@ https://github.com/A719689614/Innovate_painter_dev
  1. 修改UI界面简洁化
  2. 预留大版本更新接口
 
+<img width="1624" height="909" alt="image" src="https://github.com/user-attachments/assets/d50f483f-5f10-43c1-9aac-856831e85482" />
+
+
 #  2026-09-03 更新v2.2.23版本 =====
  1. 修复loop工作流循环线程溢出
  2. 增加七牛云存储服务
