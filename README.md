@@ -9,6 +9,9 @@ https://github.com/A719689614/Innovate_painter_dev
   5. https://github.com/A719689614/ComfyUI-By-AC_FUNV6.0
   6. https://github.com/A719689614/ComfyUI_AC_FUNV8Beta1
   7. https://github.com/A719689614/ComfyUI-By-AC_FUN_DE
+#  2026-09-03 更新v2.3.30版本 =====
+ 1. 修改UI界面简洁化
+ 2. 预留大版本更新接口
 
 #  2026-09-03 更新v2.2.23版本 =====
  1. 修复loop工作流循环线程溢出
