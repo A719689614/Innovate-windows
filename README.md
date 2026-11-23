@@ -19,7 +19,9 @@ https://github.com/A719689614/Innovate_painter_dev
  6. 优化自定义工作流加载速度
  7. 优化模块下载进度阻塞问题
 
-
+<img width="1708" height="974" alt="image" src="https://github.com/user-attachments/assets/fa405e2e-be64-4ec7-9e0b-287ae3a95393" />
+<img width="1708" height="974" alt="image" src="https://github.com/user-attachments/assets/c238693e-4406-410c-85e5-b17817d48869" />
+<img width="1624" height="909" alt="image" src="https://github.com/user-attachments/assets/afef346b-f36e-454c-9f9a-0ac143062116" />
 
 
 #  2026-09-03 更新v2.3.30版本 =====
